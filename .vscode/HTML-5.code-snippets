@@ -1,0 +1,16 @@
+"HTML-5": {
+  "prefix": "",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"ptbr\">",
+    "<head>",
+    "    <meta charset=\"UTF-8\">",
+    "    <title>Com estilo</title>",
+    "</head>",
+    "<body>",
+    "",
+    "</body>",
+    "</html>"
+  ],
+  "description": "HTML-5"
+}
